@@ -1,0 +1,17 @@
+import { Meta } from '@storybook/addon-docs';
+
+<Meta title="Developer Guide/Package Folder Structure" />
+
+### Folder Structure
+
+- `index.tsx`
+- `<ComponentName>.styles.ts`
+- `<ComponentName>.types.ts`
+- `<ComponentName>.tsx`
+- `<ComponentName>.spec.tsx**`
+- `<ComponentName>.stories.tsx**`
+- `any subcomponent directories`
+
+***only if the stories or tests pertain specifically to the component in this directory; meaning it may not be necessary for many internal subcomponents*
+
+The folder structure should be identical for all components. In other words, **all subcomponents are simply components**, and they should be structured identically to reflect that.

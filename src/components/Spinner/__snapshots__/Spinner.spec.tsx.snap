@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[Spinner] Should render a Spinner 1`] = `
+<div
+  class="sc-bcXHqe dHfpBF"
+>
+  <div
+    class="sc-gswNZR inlFky"
+    rotate="0deg"
+  />
+  <div
+    class="sc-gswNZR gfLQxZ"
+    rotate="30deg"
+  />
+  <div
+    class="sc-gswNZR fBvYlF"
+    rotate="60deg"
+  />
+  <div
+    class="sc-gswNZR emWMsU"
+    rotate="90deg"
+  />
+  <div
+    class="sc-gswNZR dlLvPg"
+    rotate="120deg"
+  />
+  <div
+    class="sc-gswNZR ZoEIX"
+    rotate="150deg"
+  />
+  <div
+    class="sc-gswNZR cdsyeN"
+    rotate="180deg"
+  />
+  <div
+    class="sc-gswNZR izPPAE"
+    rotate="210deg"
+  />
+  <div
+    class="sc-gswNZR fyRNSE"
+    rotate="240deg"
+  />
+  <div
+    class="sc-gswNZR iQyZEK"
+    rotate="270deg"
+  />
+  <div
+    class="sc-gswNZR yFDYD"
+    rotate="300deg"
+  />
+  <div
+    class="sc-gswNZR gizFMf"
+    rotate="330deg"
+  />
+</div>
+`;
