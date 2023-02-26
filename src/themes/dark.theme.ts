@@ -1,6 +1,6 @@
-import { CodeLabTheme } from 'styled-components';
+import { Theme } from 'styled-components';
 
-const darkTheme: CodeLabTheme = {
+const darkTheme: Theme = {
     name: "Dark",
     colors: {
         main: 'black',
